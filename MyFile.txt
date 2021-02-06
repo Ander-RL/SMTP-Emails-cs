@@ -1,5 +1,5 @@
-﻿from@gmail.com
-to@gmail.com
+﻿from@email.com
+to@email.com
 password
 subject
 content

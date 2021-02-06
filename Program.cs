@@ -7,7 +7,7 @@ namespace SMTP_Emails
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\MyFile.txt";
+            string path = @"C:\pathToFile\MyFile.txt";
 
             MyFileReader fr = new MyFileReader(path);
 
