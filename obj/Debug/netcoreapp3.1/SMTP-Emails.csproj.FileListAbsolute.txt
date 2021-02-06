@@ -1,0 +1,13 @@
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\bin\Debug\netcoreapp3.1\SMTP-Emails.exe
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\bin\Debug\netcoreapp3.1\SMTP-Emails.deps.json
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\bin\Debug\netcoreapp3.1\SMTP-Emails.runtimeconfig.json
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\bin\Debug\netcoreapp3.1\SMTP-Emails.runtimeconfig.dev.json
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\bin\Debug\netcoreapp3.1\SMTP-Emails.dll
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\bin\Debug\netcoreapp3.1\SMTP-Emails.pdb
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\obj\Debug\netcoreapp3.1\SMTP-Emails.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\obj\Debug\netcoreapp3.1\SMTP-Emails.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\obj\Debug\netcoreapp3.1\SMTP-Emails.AssemblyInfo.cs
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\obj\Debug\netcoreapp3.1\SMTP-Emails.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\obj\Debug\netcoreapp3.1\SMTP-Emails.dll
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\obj\Debug\netcoreapp3.1\SMTP-Emails.pdb
+C:\Users\ander\source\repos\SMTP-Emails\SMTP-Emails\obj\Debug\netcoreapp3.1\SMTP-Emails.genruntimeconfig.cache
